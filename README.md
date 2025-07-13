@@ -119,7 +119,7 @@ pip install -r requirements.txt
 python src/detect\_anomalies.py
 
 Output files will be saved to the output/ directory.
-
+```
 
 
 📈 Output
